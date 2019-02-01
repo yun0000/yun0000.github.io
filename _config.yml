@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 
 locale                   : "en-US"
-title                    : "YUN0000"
+title                    : "PORTFOLIO"
 title_separator          : "-"
 name                     : "LEE YUNJU"
 description              : "Website of LEE YUNJU"
@@ -116,7 +116,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ccchal@naver.com
+      url: #mailto:ccchal@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
