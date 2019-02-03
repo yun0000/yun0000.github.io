@@ -7,6 +7,5 @@ categories: Project
 ![Screenshot](/img/korean-clock.PNG){:class="img-responsive"}
 https://yun0000.github.io/korean-clock/
 
-This is a simple vanilla javascript project. <br>
-This application will show time in korean, remember your name and your upcoming special day. <br>
-Few random background images are provided
+바닐라 자바스크립트로 구현한 한국어 시계입니다.<br>
+사용자 이름과 디데이 저장, 랜덤 배경화면 기능이 제공됩니다.
